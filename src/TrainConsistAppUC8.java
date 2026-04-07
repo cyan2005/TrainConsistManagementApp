@@ -1,0 +1,2 @@
+public class TrainConsistAppUC8 {
+}
